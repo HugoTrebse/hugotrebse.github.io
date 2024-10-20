@@ -23,12 +23,19 @@ p {
 }
 
 a {
-    color: #0066cc;
-    text-decoration: none;
+    color: green;
+}
+
+a:visited {
+    color: darkgreen;
 }
 
 a:hover {
-    text-decoration: underline;
+    color: limegreen;
+}
+
+a:active {
+    color: forestgreen;
 }
 
 .container {
