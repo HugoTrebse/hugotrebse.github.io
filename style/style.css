@@ -23,15 +23,15 @@ p {
 }
 
 a {
-    color: green;
+    color: limegreen;
 }
 
 a:visited {
-    color: darkgreen;
+    color: green;
 }
 
 a:hover {
-    color: limegreen;
+    color: green;
 }
 
 a:active {
