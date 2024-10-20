@@ -34,10 +34,6 @@ a:hover {
     color: green;
 }
 
-a:active {
-    color: forestgreen;
-}
-
 .container {
     width: 80%;
     margin: 0 auto;
