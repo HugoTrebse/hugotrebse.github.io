@@ -80,12 +80,9 @@ li {
     margin-bottom: 5px;
 }
 
-.top-element {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            background-color: #f0f0f0;
-            padding: 10px;
-            text-align: center;
-        }
+
+img {
+    display: block;
+    clear: both;
+    margin-top: 20px;
+}
