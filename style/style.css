@@ -90,7 +90,7 @@ img {
 /* Odstranim google logotip. */
 
 .goog-logo-link {
-    display: none !important;
+    display: none;
 }
 
 .goog-te-gadget {
