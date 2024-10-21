@@ -89,10 +89,17 @@ img {
 
 /* Odstranim google logotip. */
 
+#translate-button {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    z-index: 1000;
+}
+
 #google_translate_element {
     display: inline-block;
     padding: 10px;
-    background-color: #f1f1f1;
+    background-color: #2F2F2F;
     border-radius: 5px;
     font-size: 14px;
     color: #333;
