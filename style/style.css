@@ -91,7 +91,7 @@ img {
 
 #translate-button {
     position: absolute;
-    right: 20px;
+    right: 30px;
     top: 20px;
     z-index: 1000;
 }
