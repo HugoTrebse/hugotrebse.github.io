@@ -87,8 +87,7 @@ img {
     margin-top: 20px;
 }
 
-/* Odstranim google logotip. */
-
+/* Adding the google translate feature. */
 #translate-button {
     position: absolute;
     right: 30px;
@@ -103,8 +102,15 @@ img {
     border-radius: 5px;
     font-size: 14px;
     color: #333;
-    width: 150 px;
+    width: 200 px;
     height: auto;
+}
+
+.goog-te-combo {
+    width: 100% !important;
+    height: 35px !important;
+    font-size: 14px !important;
+    padding: 5px !important;
 }
 
 .goog-te-banner-frame.skiptranslate {
