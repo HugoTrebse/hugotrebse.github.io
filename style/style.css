@@ -89,10 +89,18 @@ img {
 
 /* Odstranim google logotip. */
 
-.goog-logo-link {
-    display: none;
+#google_translate_element {
+    display: inline-block;
+    padding: 10px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    font-size: 14px;
+    color: #333;
 }
 
-.goog-te-gadget {
-    font-size: 0;
+.goog-te-banner-frame.skiptranslate {
+    display: none !important;
+}
+body {
+    top: 0px !important;
 }
