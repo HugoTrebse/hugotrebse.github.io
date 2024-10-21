@@ -94,6 +94,8 @@ img {
     right: 30px;
     top: 20px;
     z-index: 1000;
+    width: 150 px;
+    height: auto;
 }
 
 #google_translate_element {
